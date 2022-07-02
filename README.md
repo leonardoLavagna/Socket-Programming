@@ -9,3 +9,5 @@ In this repository are developed (in Python) some simple computer networking con
 - a **UDP** pinger to estimate the delay (RTT) in a network
 - a **Mail Client** that sends e-mails to any recipient by creating a TCP connection with a mail server, dialogue with it using the SMTP protocol and send an e-mail to a recipient.
 - a **Web Proxi** that recieves an HTTP request for an object, generates a new HTTP reuest for the same object and sends it back to the origin server.
+
+These programs where inspired by the classic "Computer Networking, A Top-Down Approach" by J. F. Kurose and K. W. Ross.
