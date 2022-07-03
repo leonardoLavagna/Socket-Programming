@@ -1,6 +1,3 @@
-# http://128.238.251.26:6789/HelloWorld.html
-
-
 from socket import *
 
 print("\n" + gethostbyname(gethostname()))
